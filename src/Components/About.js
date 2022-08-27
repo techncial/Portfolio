@@ -52,7 +52,7 @@ export default function About() {
                   Phone : <h5 className="deatil_text">+91 77103-29748</h5>
                 </span>
                 <span className="about_span">
-                  Place : <h5 className="deatil_text">Punjab, India - 148023</h5>
+                  Place : <h5 className="deatil_text">Punjab, India -148023</h5>
                 </span>
               </div>
             </section>
