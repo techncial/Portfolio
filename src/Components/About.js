@@ -30,10 +30,8 @@ export default function About() {
               <div className="About_outter_para">
                 <div className="about_para">
                   <p className="About_lines">
-                    I am a Front-End Developer based in Punjab, India. am an
-                    Information Technology undergraduate from SPPU. I am very
-                    passionate about improving my coding skills & developing
-                    applications & websites. I build WebApps and Websites using
+                    I am a Front-End Developer based in Punjab, India. I am very
+                    passionate about improving my coding skills & websites. I build WebApps and Websites using
                     MERN Stack. Working for myself to improve my skills. Love to
                     build Full-Stack clones.
                   </p>
@@ -46,15 +44,15 @@ export default function About() {
                   Ages: <h5 className="deatil_text">22</h5>
                 </span>
                 <span className="about_span">
-                  Email: <h5 className="deatil_text">jigarsable21@gmail.com</h5>
+                  Email: <h5 className="deatil_text">vivek.choudhary.0022@gmail.com</h5>
                 </span>
               </div>
               <div className="detail_inner">
                 <span className="about_span">
-                  Phone : <h5 className="deatil_text">+91 704-302-4736</h5>
+                  Phone : <h5 className="deatil_text">+91 77103-29748</h5>
                 </span>
                 <span className="about_span">
-                  Place : <h5 className="deatil_text">Pune, India - 412206</h5>
+                  Place : <h5 className="deatil_text">Punjab, India - 148023</h5>
                 </span>
               </div>
             </section>
