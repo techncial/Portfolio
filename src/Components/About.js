@@ -44,7 +44,7 @@ export default function About() {
                   Ages: <h5 className="deatil_text">22</h5>
                 </span>
                 <span className="about_span">
-                  Email: <h5 className="deatil_text">vivek.choudhary.0022@gmail.com</h5>
+                  Email: <h5 className="deatil_text">vivek.choudhary.0022@gmail.comm</h5>
                 </span>
               </div>
               <div className="detail_inner">
